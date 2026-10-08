@@ -9,7 +9,6 @@ export default function Page() {
       <SiteHeader />
       <main>
         <Hero />
-test
         <PostGrid />
       </main>
       <ContactFooter />
